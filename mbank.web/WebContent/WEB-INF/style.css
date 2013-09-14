@@ -1,0 +1,23 @@
+/*style for all M-bank pages*/
+
+body{
+	background-image:url('background.jpg');
+	padding:20px;
+}
+
+input[type="text"], input[type="password"]{
+	width:200px;
+}
+
+input[type="submit"], select{
+	cursor:pointer;
+}
+
+h2{color:darkblue;}
+h3{color:blue;}
+
+
+#errMsg{
+color: red;
+font-weight: bold:
+}
